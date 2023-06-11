@@ -252,7 +252,7 @@ body {
   }
   
   .spacer {
-    aspect-ratio: 960/1000;
+    aspect-ratio: 960/390;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
