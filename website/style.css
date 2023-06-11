@@ -260,10 +260,10 @@ body {
   }
   
   .layer1 {
-    background-image: url('./layered-waves.svg');
+    background-image: url('./layered-peaks-top.svg');
   }
   .layer2 {
-    background-image: url('./layered-waves.svg');
+    background-image: url('./layered-peaks-top.svg');
   }
   
   .flip {
