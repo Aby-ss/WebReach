@@ -252,7 +252,7 @@ body {
   }
   
   .spacer {
-    aspect-ratio: 960/390;
+    aspect-ratio: 900/390;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -275,7 +275,7 @@ body {
   }
   
   .spacer2 {
-    aspect-ratio: 960/390;
+    aspect-ratio: 900/390;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -283,14 +283,14 @@ body {
   }
   
   .bottom-layer1 {
-    background-image: url('./layered-peaks-bottom.svg');
+    background-image: url('./layered-peaks-bottoms.svg');
   }
   .bottom-layer2 {
-    background-image: url('./layered-peaks-bottom.svg');
+    background-image: url('./layered-peaks-bottoms.svg');
   }
   
   .spacer3 {
-    aspect-ratio: 960/390;
+    aspect-ratio: 900/390;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -299,14 +299,14 @@ body {
   }
   
   .bottom2-layer1 {
-    background-image: url('./layered-peaks-bottoms-2.svg');
+    background-image: url('./layered-peaks-bottoms.svg');
   }
   .bottom2-layer2 {
-    background-image: url('./layered-peaks-bottoms-2.svg');
+    background-image: url('./layered-peaks-bottoms.svg');
   }
   
   .spacer4 {
-    aspect-ratio: 960/390;
+    aspect-ratio: 900/390;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
