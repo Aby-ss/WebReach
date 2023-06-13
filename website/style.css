@@ -12,7 +12,6 @@ body {
   h1 {
     font-size: 4rem;
     text-align: center; /* Center align the heading */
-    max-width: 800px; /* Limit the maximum width of the heading */
     margin: 0 auto; /* Center the heading horizontally */
     max-width: 100%;
   }
