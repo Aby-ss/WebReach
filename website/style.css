@@ -345,3 +345,9 @@ body {
     color: #fff;
     text-decoration: none;
   }
+
+  .center-img-container {
+    display: flex;
+    justify-content: center;
+  }
+  
